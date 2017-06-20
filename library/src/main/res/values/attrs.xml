@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FunnyLoader">
+        <attr name="funny_prefix" format="string|reference"/>
+        <attr name="funny_postfix" format="string|reference"/>
+        <attr name="funny_animation_duration" format="integer|reference"/>
+    </declare-styleable>
+</resources>

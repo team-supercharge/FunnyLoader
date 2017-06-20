@@ -1,0 +1,206 @@
+<resources>
+    <string-array name="funny_quotes">
+        <item>Reticulating Splines</item>
+        <item>Gathering Goblins</item>
+        <item>Lifting Weights</item>
+        <item>Pushing Pixels</item>
+        <item>Formulating Plan</item>
+        <item>Taking Break</item>
+        <item>Herding Ducks</item>
+        <item>Feeding Developers</item>
+        <item>Fishing for Change</item>
+        <item>Searching for Dancers</item>
+        <item>Waking Up Gnomes</item>
+        <item>Playing Chess</item>
+        <item>Building Igloos</item>
+        <item>Converting Celsius</item>
+        <item>Scanning Power Level</item>
+        <item>Delivering Presents</item>
+        <item>Finding Dragon Balls</item>
+        <item>Firing Lasers</item>
+        <item>Party Rocking</item>
+        <item>Walking up to the club</item>
+        <item>Righting wrongs</item>
+        <item>Building Lego</item>
+        <item>Assembling Avengers</item>
+        <item>Turning Down for What</item>
+        <item>Reaching 88mph</item>
+        <item>Pondering Existence</item>
+        <item>Battling Robots</item>
+        <item>Smashing Pots</item>
+        <item>Stomping Goombas</item>
+        <item>Doing Donuts</item>
+        <item>Entering Danger Zone</item>
+        <item>Talking to Mom</item>
+        <item>Chasing Squirrels</item>
+        <item>Setting Phasers to Stun</item>
+        <item>Doing Macarena</item>
+        <item>Dropping Bass</item>
+        <item>Removing Biebers</item>
+        <item>Performing Magic</item>
+        <item>Autotuning Kanye</item>
+        <item>Waxing Legs</item>
+        <item>Invading Space</item>
+        <item>Levelling Up</item>
+        <item>Generating Map</item>
+        <item>Conquering France</item>
+        <item>Piloting Tardis</item>
+        <item>Destroying Deathstar</item>
+        <item>Typing Letters</item>
+        <item>Making Code</item>
+        <item>Running Marathon</item>
+        <item>Shooting Pucks</item>
+        <item>Kicking Field Goals</item>
+        <item>Fighting Bad Guys</item>
+        <item>Driving Batmobile</item>
+        <item>Warming Up Kryptonite</item>
+        <item>Popping Popcorn</item>
+        <item>Creating Hashes</item>
+        <item>Spawning Boss</item>
+        <item>Evaluating Life Choices</item>
+        <item>Eating Ramen</item>
+        <item>Re-heating Leftovers</item>
+        <item>Petting Kittens</item>
+        <item>Walking Puppies</item>
+        <item>Catching Z’s</item>
+        <item>Jumping Rope</item>
+        <item>Declaring Variables</item>
+        <item>Yessing Doge</item>
+        <item>Recycling Memes</item>
+        <item>Tipping Fedora</item>
+        <item>Walking Runway</item>
+        <item>Counting to Ten</item>
+        <item>Booting Native Client</item>
+        <item>Launching App</item>
+        <item>Drawing Icons</item>
+        <item>Reading Instructions</item>
+        <item>Finding Screws</item>
+        <item>Completing Puzzles</item>
+        <item>Generating Volume Slider</item>
+        <item>Brightening Orange</item>
+        <item>Ordering Pizza</item>
+        <item>You Look Good Today</item>
+        <item>Clearing Screen</item>
+        <item>Stirring Pot</item>
+        <item>Mashing Potatoes</item>
+        <item>Banishing Evil</item>
+        <item>Taking Selfies</item>
+        <item>Accelerating Disks</item>
+        <item>Benching Network</item>
+        <item>Rocking Out</item>
+        <item>Grinding Mage</item>
+        <item>Studying Calculus</item>
+        <item>Playing N64</item>
+        <item>Racing GoKarts</item>
+        <item>Defeating Creepers</item>
+        <item>Blowing Game Cartridge</item>
+        <item>Choosing Pikachu</item>
+        <item>Postponing Half Life 3</item>
+        <item>Rushing Zergs</item>
+        <item>Rescuing Hostages</item>
+        <item>Typing Konami Code</item>
+        <item>Building Snowman</item>
+        <item>Letting it Snow</item>
+        <item>Burning HDMI Cords</item>
+        <item>Applying Filters</item>
+        <item>Taking Screenshot</item>
+        <item>Shaving Mustache</item>
+        <item>Growing Beard</item>
+        <item>Baking Muffins</item>
+        <item>Iterating Javascript</item>
+        <item>Attracting Venture Capital</item>
+        <item>Disrupting Industry</item>
+        <item>Tweeting Hashtags</item>
+        <item>Encrypting Lines</item>
+        <item>Obfuscating C</item>
+        <item>Enhancing License Plate</item>
+        <item>Running Diagnostic</item>
+        <item>Warming Hyperdrive</item>
+        <item>Calibrating Positions</item>
+        <item>Calculating Percentages</item>
+        <item>Revoking Licenses</item>
+        <item>Shedding Core</item>
+        <item>Dampening Gravity</item>
+        <item>Increasing Power</item>
+        <item>Checking Sensors</item>
+        <item>Indexing RSS</item>
+        <item>Programming PCI</item>
+        <item>Determining USB Position</item>
+        <item>Connecting to Bus</item>
+        <item>Inverting Ports</item>
+        <item>Bypassing Capacitor</item>
+        <item>Reversing Bandwidth Throttle</item>
+        <item>Testing AI</item>
+        <item>Virtualizing Microchip</item>
+        <item>Emulating Playstation</item>
+        <item>Synthesizing Drivers</item>
+        <item>Structuring Chlorophyll</item>
+        <item>Watering Plants</item>
+        <item>Ingesting Caffeine</item>
+        <item>Chugging Redbull</item>
+        <item>Parsing System</item>
+        <item>Navigating Arrays</item>
+        <item>Searching Google</item>
+        <item>Overflowing Stack</item>
+        <item>Compiling Binaries</item>
+        <item>Answering Emails</item>
+        <item>Migrating CSS</item>
+        <item>Backing Up Primaries</item>
+        <item>Rendering Dialogs</item>
+        <item>Reading RSS</item>
+        <item>Compressing Data</item>
+        <item>Rejecting Cloud</item>
+        <item>Evaluating Weissman Score</item>
+        <item>Purging Local Storage</item>
+        <item>Leaking Memory</item>
+        <item>Scripting Python</item>
+        <item>Grunting Ruby</item>
+        <item>Benching RAM</item>
+        <item>Determining Auxiliaries</item>
+        <item>Jiggling Internet</item>
+        <item>Ejecting Floppy</item>
+        <item>Fluctuating Objects</item>
+        <item>Spiking Reactor Core</item>
+        <item>Firing Bosons</item>
+        <item>Testing Processor</item>
+        <item>Debugging Prompts</item>
+        <item>Connecting Floats</item>
+        <item>Rounding Integers</item>
+        <item>Pronouncing Gigawatt</item>
+        <item>Inverting Transponders</item>
+        <item>Bypassing Silicon</item>
+        <item>Raising Funds</item>
+        <item>Caching Logs</item>
+        <item>Dithering Broadband</item>
+        <item>Eating Poutine</item>
+        <item>Rolling Rims to Win</item>
+        <item>Begging for Change</item>
+        <item>Chasing Waterfalls</item>
+        <item>Pumping Gas</item>
+        <item>Emptying Pipes</item>
+        <item>Hitting Piñata</item>
+        <item>Unleashing Freedom</item>
+        <item>Airbrushing Actors</item>
+        <item>FIling Taxes</item>
+        <item>Powering Mitochondria</item>
+        <item>Calculating Qi charge</item>
+        <item>Completing Geometry</item>
+        <item>Turning in Algebra</item>
+        <item>Solving for X</item>
+        <item>Benching Wattage</item>
+        <item>Kludging Playback Bar</item>
+        <item>Stringifying Json</item>
+        <item>Consuming Spaghetti Code</item>
+        <item>Deleting Comments</item>
+        <item>Transitioning to Django</item>
+        <item>Learning to Code</item>
+        <item>Battling Feature Creep</item>
+        <item>Losing Flappy Bird</item>
+        <item>Celebrating Good Times</item>
+        <item>Sharpening Pencils</item>
+        <item>Automating Processes</item>
+        <item>Attacking Godzilla</item>
+        <item>Carbonating Soda</item>
+        <item>Thinking of Witty Text</item>
+    </string-array>
+</resources>
