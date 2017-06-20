@@ -9,7 +9,7 @@
 
 Get the latest artifact via gradle
 ```groovy
-compile 'io.supercharge:funnyloader:0.1.0'
+compile 'io.supercharge:funnyloader:0.2.0'
 ```
 
 Use as a standard `TextView`
