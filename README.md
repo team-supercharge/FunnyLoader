@@ -1,4 +1,8 @@
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FunnyLoader-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5930)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.supercharge/funnyloader/badge.svg?style=plastic)](https://maven-badges.herokuapp.com/maven-central/io.supercharge/funnyloader)
+
+
 # FunnyLoader
 
 `FunnyLoader` is an android library which can be used for showing random messages while your app is loading something. Over 200 random funny messages taken from [VideoStream](http://getvideostream.com) **for Chromecast plugin for Chrome**
