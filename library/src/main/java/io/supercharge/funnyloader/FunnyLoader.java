@@ -70,6 +70,8 @@ public class FunnyLoader extends TextView {
         sb.append(postFix);
 
         setText(sb.toString());
+        
+        start();
     }
 
 
