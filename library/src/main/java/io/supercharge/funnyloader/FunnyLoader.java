@@ -52,7 +52,7 @@ public class FunnyLoader extends TextView {
                     "" : a.getString(R.styleable.FunnyLoader_funny_postfix);
             duration = a.getInteger(R.styleable.FunnyLoader_funny_animation_duration, TIMEOUT);
             
-            autoStart=a.getBoolean(R.styleable.FunnyLoader_funny_autoStart, false);
+            autoStart = a.getBoolean(R.styleable.FunnyLoader_funny_autoStart, false);
         } finally {
             a.recycle();
         }
@@ -74,7 +74,9 @@ public class FunnyLoader extends TextView {
 
         setText(sb.toString());
         
-        if(autoStart) start();
+        if(autoStart) {
+            start();
+        }
     }
 
 
