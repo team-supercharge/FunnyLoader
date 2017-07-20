@@ -25,11 +25,24 @@ Use as a standard `TextView`
         android:layout_height="wrap_content"
 		...
         app:funny_postfix="..."
+	app:funny_autoStart="true"
         app:funny_animation_duration="1500" />
 
 
 ```
+**Animation**
 
+The animation starts automatically if app:funny_autoStart is true (default is false). We can also start it programatically:
+
+```
+FunnyLoader funnyLoader = (FunnyLoader) findViewById(R.id.funnyLoader);
+funnyLoader.start();
+
+...
+
+funnyLoader.stop();
+
+```
 
 # License
 

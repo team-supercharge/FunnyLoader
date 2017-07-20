@@ -20,6 +20,7 @@ public class FunnyLoader extends TextView {
     private String[] quotes;
     private int position = 0;
     private boolean isRunning = false;
+    private boolean autoStart=false;
     private String postFix = "";
     private String preFix = "";
     private int duration = TIMEOUT;
@@ -50,6 +51,8 @@ public class FunnyLoader extends TextView {
             postFix = a.getString(R.styleable.FunnyLoader_funny_postfix) == null ?
                     "" : a.getString(R.styleable.FunnyLoader_funny_postfix);
             duration = a.getInteger(R.styleable.FunnyLoader_funny_animation_duration, TIMEOUT);
+            
+            autoStart = a.getBoolean(R.styleable.FunnyLoader_funny_autoStart, false);
         } finally {
             a.recycle();
         }
@@ -70,6 +73,10 @@ public class FunnyLoader extends TextView {
         sb.append(postFix);
 
         setText(sb.toString());
+        
+        if(autoStart) {
+            start();
+        }
     }
 
 

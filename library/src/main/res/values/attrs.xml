@@ -2,6 +2,7 @@
 <resources>
     <declare-styleable name="FunnyLoader">
         <attr name="funny_prefix" format="string|reference"/>
+        <attr name="funny_autoStart" format="boolean"/>
         <attr name="funny_postfix" format="string|reference"/>
         <attr name="funny_animation_duration" format="integer|reference"/>
     </declare-styleable>
