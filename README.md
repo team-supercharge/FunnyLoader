@@ -30,7 +30,19 @@ Use as a standard `TextView`
 
 
 ```
+**Animation**
 
+The animation starts automatically if app:funny_autoStart is true (default is false). We can also start it programatically:
+
+```
+FunnyLoader funnyLoader = (FunnyLoader) findViewById(R.id.funnyLoader);
+funnyLoader.start();
+
+...
+
+funnyLoader.stop();
+
+```
 
 # License
 
