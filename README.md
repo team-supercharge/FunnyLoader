@@ -25,6 +25,7 @@ Use as a standard `TextView`
         android:layout_height="wrap_content"
 		...
         app:funny_postfix="..."
+	app:funny_autoStart="true"
         app:funny_animation_duration="1500" />
 
 
